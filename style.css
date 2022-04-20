@@ -1,4 +1,8 @@
-*{
-    margin: 30px;
-    font-size: 20px;
+h1{
+    color: brown;
+    font-size: 60px;
+}
+div{
+    color:darkslategray;
+    font-size: 30px;
 }
