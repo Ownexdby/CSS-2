@@ -1,4 +1,4 @@
-:nth-child(3n){
+:last-of-type{
     font-size: 70px;
     color:darkblue;
 }
