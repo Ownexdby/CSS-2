@@ -1,8 +1,6 @@
-.main-title{
-    font-size: 90px;
-    color: darkorchid;
+#rip{
+    float:left;
 }
-.first{
-    font-size: 50px;
-font-weight:600;
+#ask{
+    margin: 50px;
 }
