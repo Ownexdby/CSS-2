@@ -1,5 +1,6 @@
-:first-letter{
+a[href][target]{
     content: attr(30);
-    margin: 30px;
-    color:rgb(139, 0, 0);
+    margin: 100px;
+    color:rgb(10, 173, 223);
+    font-size: 100px;
 }
