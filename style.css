@@ -1,5 +1,5 @@
-div > p{
-    color: brown;
-    text-transform: uppercase;
-    font-size: 40px;
+p[class|="bom"]{
+    color:darkgreen;
+    font-stretch:extra-condensed;
+    font-size: 50px;
 }
