@@ -1,3 +1,4 @@
-:hover{
+:nth-child(3n){
     font-size: 70px;
+    color:darkblue;
 }
