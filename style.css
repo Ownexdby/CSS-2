@@ -1,5 +1,3 @@
-p[class|="bom"]{
-    color:darkgreen;
-    font-stretch:extra-condensed;
-    font-size: 50px;
+:hover{
+    font-size: 70px;
 }
