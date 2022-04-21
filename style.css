@@ -1,8 +1,8 @@
-h1{
-    color: brown;
-    font-size: 60px;
+.main-title{
+    font-size: 90px;
+    color: darkorchid;
 }
-div{
-    color:darkslategray;
-    font-size: 30px;
+.first{
+    font-size: 50px;
+font-weight:600;
 }
